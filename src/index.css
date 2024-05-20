@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,html{
+  /* background-image: url(https://image.shutterstock.com/image-photo/mesmerizing-3d-abstract-multicolor-visualization-260nw-2308145127.jpg); */
+  /* background-image: url(https://cdn.stocksnap.io/img-thumbs/280h/abstract-waves_XYBLVEGDJM.jpg); */
+  /* background-image: url(https://image.shutterstock.com/image-photo/blurred-shadow-palm-leaves-on-260nw-2261327067.jpg); */
+  /* background-image: url(https://cdn.stocksnap.io/img-thumbs/960w/night-starry_QXJWWP6OZW.jpg); */
+  /* background-image: url(https://cdn.stocksnap.io/img-thumbs/280h/night-starry_KQ9A1KH9KB.jpg); */
+  background-image: url(https://cdn.stocksnap.io/img-thumbs/280h/aurora-starry_NV0DLUSOXX.jpg);
+  background-size: cover;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  width: 100%;
+  height: 100vh;
+
+}
